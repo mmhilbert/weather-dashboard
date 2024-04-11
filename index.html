@@ -16,22 +16,25 @@
         <div class="row">
             <div class="col-3">
                 <h5>Search for City:</h5>
-                <form>
+                <div>
                     <div class="mb-3">
-                      <input type="text" class="form-control" id="search">
+                      <input type="text" class="form-control" id="search-input">
                     </div>
             
-                    <button type="submit" class="btn btn-primary">Submit</button>
-                  </form>
+                    <button type="button" class="btn btn-primary" id="search-button">Submit</button>
+                  </div>
+                <div id="search-history-list">
+                   
+                </div>
             </div>
 
             <div class="col-9">
-                <div class="row">
+                <div id="day-weather" class="row">
                     <div class="col-12">
-                        <h3>City Title</h3>
-                        <p>Temp:</p>
-                        <p>Wind:</p>
-                        <p>Humidity:</p>
+                        <h3 id="city-name">City Title</h3>
+                        <p id="city-temp">Temp:</p>
+                        <p id="city-wind">Wind:</p>
+                        <p id="city-humidity">Humidity:</p>
                     </div>
                 </div>
                 <div id="weather-forecast" class="row">
