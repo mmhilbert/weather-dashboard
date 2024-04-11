@@ -1,5 +1,5 @@
 # Weather Dashboard
-Weather Dashboard leveraging OpenWeather API to fetch current and future forecast 
+Weather Dashboard leveraging OpenWeather API to fetch current and future forecast. Search data is also stored in local storage and populated as clickable links under the search inpuut so users can populate weather data for cities they've searched before. 
 
 ## Screenshots
 
@@ -10,7 +10,7 @@ Weather Dashboard leveraging OpenWeather API to fetch current and future forecas
 
 ## Link 
 
-Task Board can be located [here](https://mmhilbert.github.io/weather-dashboard/)
+Weather App can be located [here](https://mmhilbert.github.io/weather-dashboard/)
 
 
 ## License
