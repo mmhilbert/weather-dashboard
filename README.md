@@ -1,5 +1,5 @@
 # Weather Dashboard
-Weather Dashboard leveraging OpenWeather API to fetch current and future forecast. Search data is also stored in local storage and populated as clickable links under the search inpuut so users can populate weather data for cities they've searched before. 
+Weather Dashboard leveraging OpenWeather API to fetch current and future forecast. Search data is also stored in local storage and populated as clickable links under the search input so users can populate weather data for cities they've searched before. 
 
 ## Screenshots
 
